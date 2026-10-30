@@ -1,16 +1,13 @@
-## Hi there 👋
+### hello from Indonesia, i'm yungzestyyk 👋
 
-<!--
-**yungzestyyk/yungzestyyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer interested in simple tools and pragmatic development. Based in Indonesia.
 
-Here are some ideas to get you started:
+- ⚡ Fun fact: I debug faster with music on
+- 📫 How to reach me: **@yungzestyyk** on GitHub
+- 🌱 Learning React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yungzestyyk&hide_border=true&theme=merko" alt="Commit streak" />
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=yungzestyyk&hide_border=true&theme=github" alt="Contribution graph" />
+
+<img src="https://img.shields.io/badge/React-f778ba?style=for-the-badge&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Node.js-f778ba?style=for-the-badge&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-f778ba?style=for-the-badge&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/SQLite-f778ba?style=for-the-badge&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/TypeScript-f778ba?style=for-the-badge&logoColor=white" alt="TypeScript" />
